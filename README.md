@@ -2,6 +2,10 @@
 
 MedLab es una aplicación que analiza los resultados de tus exámenes médicos y te brinda consejos personalizados para mejorar tu salud.
 
+## Preview de MedLab
+
+[MedLab Prototype ](https://app.flutterflow.io/share/healthy-mh4b1s)
+
 ## Características
 
 - Análisis de resultados de exámenes médicos: simplemente carga tus resultados y MedLab los analizará para ti.
