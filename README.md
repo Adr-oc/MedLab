@@ -17,9 +17,13 @@ MedLab es una aplicación que analiza los resultados de tus exámenes médicos y
 ## Preview
 
 ### Getting started
+https://github.com/Adr-oc/MedLab/assets/132016076/0efce5da-6151-4b66-83bb-1fb39ceaeccd
 
-<video src="Images\StartPreviewVid.mp4" width="auto" height="auto" controls></video>
+
 
 ### Home and features
 
-<video src="Images\HomeFeaturesVid.mp4" width="auto" height="auto" controls></video>
+
+https://github.com/Adr-oc/MedLab/assets/132016076/b74a09c2-7015-43f8-8c97-bb7a5e997a5d
+
+
