@@ -4,7 +4,12 @@ MedLab es una aplicación que analiza los resultados de tus exámenes médicos y
 
 ## MedLab Prototype
 
-[Prototype App v1.](https://app.flutterflow.io/share/healthy-mh4b1s)
+[Final Version Prototype ->](https://app.flutterflow.io/run/ksvOnSfpfw8GLbK8jKoQ)
+
+## Imagenes del protipo
+![image](https://github.com/Adr-oc/MedLab/assets/132016076/ddb06ca1-6471-4f38-997c-323700872ed4)
+![image](https://github.com/Adr-oc/MedLab/assets/132016076/27a4ff0e-c656-4f09-af75-a8bab2f3baa4)
+![image](https://github.com/Adr-oc/MedLab/assets/132016076/118d1d4d-e53d-46b5-85d3-2e416e87cb5a)
 
 ## Características
 
@@ -14,16 +19,11 @@ MedLab es una aplicación que analiza los resultados de tus exámenes médicos y
 - Gráficas: MedLab te muestra gráficas para que puedas visualizar fácilmente tu progreso y entender mejor tus resultados.
 - Alertas: si MedLab detecta algo preocupante en tus resultados, te enviará una alerta para que puedas tomar medidas.
 
-## Preview
+## App Preview
+https://github.com/Adr-oc/MedLab/assets/132016076/6ac6885f-a08b-4f08-ae74-9cbfbd29712d
 
-### Getting started
-https://github.com/Adr-oc/MedLab/assets/132016076/0efce5da-6151-4b66-83bb-1fb39ceaeccd
+## Control de versiones
+Nuestra aplicación se desarrolló con flutterflow, una tecnología que nos permite crear apps sin necesidad de aprender ningún lenguaje de programación. Flutterflow tiene su propio sistema de control de versiones integrado, por lo que no usamos GitHub como plataforma para gestionar los cambios en el código. Sin embargo, sí usamos GitHub como medio para documentar y actualizar la información sobre las características de nuestra aplicación, así como para compartir nuestro trabajo con otros desarrolladores.
 
-
-
-### Home and features
-
-
-https://github.com/Adr-oc/MedLab/assets/132016076/b74a09c2-7015-43f8-8c97-bb7a5e997a5d
 
 
