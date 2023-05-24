@@ -3,7 +3,7 @@
 MedLab es una aplicación que analiza los resultados de tus exámenes médicos y te brinda consejos personalizados para mejorar tu salud.
 
 ## PDF entrega Final
-[Final Version Prototype ->](https://github.com/Adr-oc/MedLab/blob/main/Fase%203%20Entrega%20final..pdf)
+[Ver PDF](https://github.com/Adr-oc/MedLab/blob/main/Fase%203%20Entrega%20final..pdf)
 
 ## MedLab Prototype
 
